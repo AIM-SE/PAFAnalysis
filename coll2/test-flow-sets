@@ -1,0 +1,292 @@
+<java.util.Iterator:$r1@842[2],java.util.Iterator:Fiterator@840[1]>
+	RandoopTest0.test25
+<java.lang.NullPointerException:$r3@814[5],java.lang.NullPointerException:$r3@814[4]>
+	ErrorTest0.test248
+	RandoopTest0.test154
+	ErrorTest0.test399
+	ErrorTest0.test433
+<java.util.Iterator:$r1@842[2],java.util.Iterator:Fiterator@841[2]>
+	ErrorTest0.test017
+	ErrorTest0.test062
+	ErrorTest0.test323
+<java.util.ListIterator:r1@787[10],java.util.ListIterator:Fiterator@856[2]>
+	RandoopTest0.test28
+<java.util.Enumeration:$r1@768[2],java.util.Enumeration:Fenumeration@773[3]>
+	ErrorTest0.test118
+	ErrorTest0.test149
+<java.util.Enumeration:$r1@769[2],java.util.Enumeration:Fenumeration@773[3]>
+	ErrorTest0.test014
+	ErrorTest0.test008
+	ErrorTest0.test030
+	ErrorTest0.test390
+<java.util.Iterator:$r1@837[2],java.util.Iterator:Fiterator@840[1]>
+	ErrorTest0.test011
+	RandoopTest1.test73
+	RandoopTest1.test66
+	RandoopTest0.test112
+	RandoopTest1.test165
+<java.util.Iterator:$r1@838[2],java.util.Iterator:Fiterator@840[1]>
+	RandoopTest0.test18
+	RandoopTest0.test62
+	ErrorTest0.test092
+	RandoopTest1.test44
+<java.util.Iterator:$r1@837[2],java.util.Iterator:Fiterator@841[2]>
+	ErrorTest0.test252
+	ErrorTest0.test251
+	ErrorTest0.test368
+	ErrorTest0.test120
+	ErrorTest0.test344
+	ErrorTest0.test228
+	ErrorTest0.test179
+	ErrorTest0.test298
+	ErrorTest0.test151
+	ErrorTest0.test155
+	ErrorTest0.test027
+	ErrorTest0.test262
+	ErrorTest0.test068
+	ErrorTest0.test067
+	ErrorTest0.test066
+	ErrorTest0.test334
+	ErrorTest0.test325
+	ErrorTest0.test312
+	ErrorTest0.test317
+	ErrorTest0.test319
+	ErrorTest0.test421
+<java.util.Iterator:$r1@838[2],java.util.Iterator:Fiterator@841[2]>
+	ErrorTest0.test132
+	ErrorTest0.test355
+	ErrorTest0.test107
+	ErrorTest0.test106
+	ErrorTest0.test287
+	ErrorTest0.test163
+	ErrorTest0.test035
+	ErrorTest0.test272
+	ErrorTest0.test394
+	ErrorTest0.test140
+	ErrorTest0.test383
+	ErrorTest0.test417
+	ErrorTest0.test400
+	ErrorTest0.test194
+	ErrorTest0.test186
+	ErrorTest0.test201
+	ErrorTest0.test204
+	ErrorTest0.test208
+<java.util.ListIterator:$r1@849[2],java.util.ListIterator:Fiterator@851[1]>
+	ErrorTest0.test180
+	RandoopTest1.test9
+	ErrorTest0.test187
+	RandoopTest0.test108
+<org.apache.commons.collections.Predicate:r2@777[6],org.apache.commons.collections.Predicate:Fpredicate@781[2]>
+	ErrorTest0.test364
+<java.util.ListIterator:$r1@848[2],java.util.ListIterator:Fiterator@851[1]>
+	RandoopTest0.test159
+	ErrorTest0.test059
+<java.util.ListIterator:$r1@845[2],java.util.ListIterator:Fiterator@851[1]>
+	ErrorTest0.test277
+	RandoopTest0.test106
+<java.util.ListIterator:$r1@846[2],java.util.ListIterator:Fiterator@851[1]>
+	RandoopTest0.test135
+	ErrorTest0.test175
+	ErrorTest0.test053
+	RandoopTest1.test21
+<java.util.ListIterator:$r1@844[2],java.util.ListIterator:Fiterator@852[2]>
+	RandoopTest1.test20
+	RandoopTest1.test64
+	RandoopTest1.test160
+<java.lang.NullPointerException:$r3@761[5],java.lang.NullPointerException:$r3@761[4]>
+	ErrorTest0.test256
+<java.util.ListIterator:$r1@844[2],java.util.ListIterator:Fiterator@851[1]>
+	ErrorTest0.test002
+	RandoopTest1.test123
+	ErrorTest0.test028
+	ErrorTest0.test023
+	ErrorTest0.test021
+	RandoopTest1.test71
+	RandoopTest0.test118
+	ErrorTest0.test318
+<java.util.ListIterator:$r2@855[3],java.util.ListIterator:Fiterator@851[1]>
+	ErrorTest0.test246
+<java.util.ListIterator:$r1@854[2],java.util.ListIterator:Fiterator@851[1]>
+	ErrorTest0.test074
+<org.apache.commons.collections.SequencedHashMap$Entry:r6@587[6],org.apache.commons.collections.SequencedHashMap$Entry:r6@587[4]>
+	RandoopTest0.test34
+	ErrorTest0.test131
+	ErrorTest0.test245
+	RandoopTest0.test142
+	ErrorTest0.test178
+	ErrorTest0.test041
+	ErrorTest0.test161
+	ErrorTest0.test279
+	ErrorTest0.test395
+	ErrorTest0.test388
+	ErrorTest0.test412
+	ErrorTest0.test416
+	ErrorTest0.test095
+	ErrorTest0.test083
+	ErrorTest0.test184
+	ErrorTest0.test316
+	ErrorTest0.test428
+<java.util.Iterator:$r1@821[2],java.util.Iterator:Fiterator@824[1]>
+	ErrorTest0.test378
+	ErrorTest0.test138
+	ErrorTest0.test119
+	ErrorTest0.test103
+	ErrorTest0.test101
+	ErrorTest0.test349
+	ErrorTest0.test105
+	ErrorTest0.test280
+	ErrorTest0.test286
+	ErrorTest0.test141
+	RandoopTest1.test36
+	ErrorTest0.test098
+	RandoopTest1.test30
+	ErrorTest0.test072
+	ErrorTest0.test196
+	ErrorTest0.test188
+	ErrorTest0.test219
+	ErrorTest0.test426
+<java.util.Iterator:r1@777[3],java.util.Iterator:Fiterator@840[1]>
+	RandoopTest0.test39
+	ErrorTest0.test128
+	ErrorTest0.test108
+	RandoopTest0.test23
+	ErrorTest0.test167
+	RandoopTest0.test81
+	ErrorTest0.test040
+	ErrorTest0.test160
+	ErrorTest0.test032
+	RandoopTest0.test187
+	ErrorTest0.test024
+	ErrorTest0.test087
+	ErrorTest0.test079
+	RandoopTest1.test47
+	ErrorTest0.test320
+<java.util.Iterator:$r1@822[2],java.util.Iterator:Fiterator@824[1]>
+	ErrorTest0.test172
+	ErrorTest0.test036
+	ErrorTest0.test154
+	ErrorTest0.test025
+	ErrorTest0.test381
+	ErrorTest0.test411
+<java.util.Iterator:$r1@821[2],java.util.Iterator:Fiterator@826[2]>
+	ErrorTest0.test093
+<java.util.Iterator:$r1@822[2],java.util.Iterator:Fiterator@826[2]>
+	ErrorTest0.test130
+	ErrorTest0.test114
+<org.apache.commons.collections.Predicate:r2@788[13],org.apache.commons.collections.Predicate:Fpredicate@795[2]>
+	ErrorTest0.test247
+	ErrorTest0.test435
+<org.apache.commons.collections.Predicate:r2@787[13],org.apache.commons.collections.Predicate:Fpredicate@795[2]>
+	ErrorTest0.test233
+	ErrorTest0.test223
+	ErrorTest0.test209
+<java.util.ListIterator:r1@788[10],java.util.ListIterator:Fiterator@851[1]>
+	ErrorTest0.test376
+	ErrorTest0.test250
+	RandoopTest0.test31
+	RandoopTest1.test100
+	ErrorTest0.test005
+	ErrorTest0.test007
+	ErrorTest0.test242
+	ErrorTest0.test241
+	ErrorTest0.test229
+	RandoopTest0.test27
+	ErrorTest0.test294
+	ErrorTest0.test293
+	ErrorTest0.test054
+	ErrorTest0.test285
+	ErrorTest0.test284
+	ErrorTest0.test276
+	ErrorTest0.test397
+	RandoopTest0.test192
+	ErrorTest0.test260
+	ErrorTest0.test263
+	ErrorTest0.test020
+	ErrorTest0.test413
+	ErrorTest0.test097
+	ErrorTest0.test404
+	ErrorTest0.test403
+	ErrorTest0.test091
+	ErrorTest0.test214
+	ErrorTest0.test213
+	ErrorTest0.test339
+	ErrorTest0.test337
+	ErrorTest0.test330
+	ErrorTest0.test203
+	ErrorTest0.test202
+	ErrorTest0.test327
+<java.util.ListIterator:r1@787[10],java.util.ListIterator:Fiterator@851[1]>
+	ErrorTest0.test137
+	ErrorTest0.test013
+	ErrorTest0.test134
+	ErrorTest0.test019
+	ErrorTest0.test259
+	ErrorTest0.test012
+	ErrorTest0.test253
+	ErrorTest0.test374
+	ErrorTest0.test010
+	RandoopTest0.test46
+	ErrorTest0.test001
+	ErrorTest0.test363
+	RandoopTest0.test160
+	RandoopTest0.test47
+	ErrorTest0.test346
+	ErrorTest0.test222
+	ErrorTest0.test226
+	RandoopTest0.test21
+	ErrorTest0.test341
+	ErrorTest0.test109
+	ErrorTest0.test058
+	ErrorTest0.test057
+	ErrorTest0.test299
+	ErrorTest0.test171
+	ErrorTest0.test292
+	ErrorTest0.test174
+	ErrorTest0.test048
+	ErrorTest0.test289
+	ErrorTest0.test282
+	ErrorTest0.test044
+	ErrorTest0.test042
+	RandoopTest0.test198
+	ErrorTest0.test392
+	ErrorTest0.test396
+	ErrorTest0.test026
+	ErrorTest0.test267
+	ErrorTest0.test382
+	ErrorTest0.test022
+	ErrorTest0.test385
+	ErrorTest0.test086
+	ErrorTest0.test192
+	ErrorTest0.test218
+	RandoopTest0.test129
+	ErrorTest0.test432
+	ErrorTest0.test315
+	ErrorTest0.test423
+	ErrorTest0.test308
+<java.lang.NullPointerException:$r5@155[10],java.lang.NullPointerException:$r5@155[9]>
+	ErrorTest0.test232
+	ErrorTest0.test227
+	ErrorTest0.test090
+	ErrorTest0.test305
+<java.util.ListIterator:r1@788[10],java.util.ListIterator:Fiterator@852[2]>
+	ErrorTest0.test371
+	ErrorTest0.test234
+	ErrorTest0.test351
+	ErrorTest0.test268
+	ErrorTest0.test410
+	ErrorTest0.test415
+	ErrorTest0.test409
+	RandoopTest0.test101
+<java.util.ListIterator:r1@787[10],java.util.ListIterator:Fiterator@852[2]>
+	ErrorTest0.test249
+	ErrorTest0.test231
+	ErrorTest0.test055
+	ErrorTest0.test162
+	ErrorTest0.test389
+	ErrorTest0.test333
+	ErrorTest0.test205
+	RandoopTest0.test114
+	RandoopTest0.test119
+
+33 (crash target, crash origin) pairs.
+256 tests in total.

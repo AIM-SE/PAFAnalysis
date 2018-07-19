@@ -1,0 +1,70 @@
+<org.apache.commons.math.analysis.UnivariateRealFunction:r1@57[5],org.apache.commons.math.analysis.UnivariateRealFunction:r1@57[1]>
+	RandoopTest_failure_7.test1
+<org.apache.commons.math.Field:$r1@510[3],org.apache.commons.math.Field:Ffield@553[4]>
+	RandoopTest_failure_25.test1
+<java.math.BigDecimal:$r3@588[12],java.math.BigDecimal[][]:Fdata@621[3]>
+	ErrorTest0.test06
+<org.apache.commons.math.linear.BigMatrixImpl:r0@581[1],java.math.BigDecimal[][]:Fdata@619[1]>
+	RandoopTest_failure_15.test1
+	RandoopTest_failure_12.test1
+	RandoopTest_failure_10.test1
+	ErrorTest0.test24
+	RandoopTest_failure_19.test1
+	ErrorTest0.test08
+	RandoopTest_failure_31.test1
+<org.apache.commons.math.analysis.UnivariateRealFunction:r1@56[5],org.apache.commons.math.analysis.UnivariateRealFunction:r1@56[1]>
+	ErrorTest0.test19
+	RandoopTest_failure_35.test1
+<java.math.BigDecimal:$r7@611[13],java.math.BigDecimal[][]:Fdata@621[3]>
+	ErrorTest0.test12
+<org.apache.commons.math.linear.BigMatrixImpl:r0@579[1],java.math.BigDecimal[][]:Fdata@626[6]>
+	RandoopTest_failure_21.test1
+<org.apache.commons.math.linear.Array2DRowFieldMatrix:r0@465[4],org.apache.commons.math.FieldElement[][]:Fdata@458[2]>
+	RandoopTest_failure_29.test1
+<org.apache.commons.math.random.EmpiricalDistributionImpl:r0@822[1],double[]:FupperBounds@833[2]>
+	ErrorTest0.test32
+	ErrorTest0.test13
+<org.apache.commons.math.linear.BigMatrixImpl:r0@587[3],java.math.BigDecimal[][]:Fdata@619[1]>
+	ErrorTest0.test31
+	RandoopTest_failure_14.test1
+<java.net.URL:r1@837[4],org.apache.commons.math.random.EmpiricalDistribution:FempiricalDistribution@857[4]>
+	ErrorTest0.test16
+<org.apache.commons.math.linear.Array2DRowFieldMatrix:r0@436[3],org.apache.commons.math.FieldElement[][]:Fdata@458[2]>
+	RandoopTest_failure_26.test1
+<org.apache.commons.math.random.EmpiricalDistributionImpl:r0@822[1],double[]:FupperBounds@832[1]>
+	RandoopTest_failure_6.test1
+<org.apache.commons.math.Field:$r1@510[3],org.apache.commons.math.Field:Ffield@557[3]>
+	ErrorTest0.test01
+	ErrorTest0.test02
+<org.apache.commons.math.analysis.UnivariateRealFunction:r1@45[7],org.apache.commons.math.analysis.UnivariateRealFunction:r1@45[1]>
+	ErrorTest0.test33
+<org.apache.commons.math.linear.Array2DRowFieldMatrix:r0@463[4],org.apache.commons.math.FieldElement[][]:Fdata@458[2]>
+	RandoopTest_failure_22.test1
+<org.apache.commons.math.distribution.NormalDistribution:$r2@242[14],org.apache.commons.math.distribution.NormalDistribution:Fnormal@242[12]>
+	RandoopTest_failure_2.test1
+	RandoopTest_failure_17.test1
+	RandoopTest_failure_34.test1
+	ErrorTest0.test25
+	ErrorTest0.test26
+<org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction:$r2@804[17],org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction:Ffunction@798[1]>
+	ErrorTest0.test15
+	ErrorTest0.test37
+<org.apache.commons.math.analysis.MultivariateMatrixFunction:$r3@803[6],org.apache.commons.math.analysis.MultivariateMatrixFunction:FjF@798[1]>
+	RandoopTest_failure_32.test1
+	ErrorTest0.test05
+	ErrorTest0.test28
+<java.math.BigDecimal:$r4@578[12],java.math.BigDecimal[][]:Fdata@621[3]>
+	ErrorTest0.test11
+<org.apache.commons.math.linear.BigMatrixImpl:r0@579[1],java.math.BigDecimal[][]:Fdata@619[1]>
+	ErrorTest0.test10
+	RandoopTest_failure_13.test1
+	RandoopTest_failure_28.test1
+	RandoopTest_failure_20.test1
+	ErrorTest0.test09
+<org.apache.commons.math.analysis.UnivariateRealFunction:r1@37[10],org.apache.commons.math.analysis.UnivariateRealFunction:r1@37[1]>
+	RandoopTest_failure_27.test1
+	ErrorTest0.test27
+	ErrorTest0.test29
+
+22 (crash target, crash origin) pairs.
+45 tests in total.
